@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diagnal-app/static/css/main.55f62873.css",
+    "main.js": "/diagnal-app/static/js/main.c370bce6.js",
+    "static/js/453.1d74ac37.chunk.js": "/diagnal-app/static/js/453.1d74ac37.chunk.js",
+    "index.html": "/diagnal-app/index.html",
+    "main.55f62873.css.map": "/diagnal-app/static/css/main.55f62873.css.map",
+    "main.c370bce6.js.map": "/diagnal-app/static/js/main.c370bce6.js.map",
+    "453.1d74ac37.chunk.js.map": "/diagnal-app/static/js/453.1d74ac37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f62873.css",
+    "static/js/main.c370bce6.js"
+  ]
+}
